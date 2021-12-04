@@ -1,4 +1,4 @@
-# lingbreaker
+# lingBreaker
 
 ![til](https://user-images.githubusercontent.com/48928433/144714002-0cb35cee-6e05-4f51-86fd-375f95ce934d.gif)
 
