@@ -1,4 +1,5 @@
 # lingbreaker
+
 <h3>Rozszerzenie dziala na przegladarkach bazujacych na chromium tj (chrome, opera, nowy edge, brave itd)</h3>
 
 Aby dodac rozszerenie do przegladarki musisz: 
@@ -16,6 +17,6 @@ Aby dodac rozszerenie do przegladarki musisz:
 - zaladowac rozpakowane rozszerzenie
 
   ![image](https://user-images.githubusercontent.com/48928433/144710609-011df2f4-8346-4c3c-8ba5-e6e7f96ab0b2.png)
+    
 - cieszyc sie darmowymi ocenkami
 - wyslawiac autorow rozszerzenia od prorokow oraz traktowac ich jak bogow
-
