@@ -3,6 +3,10 @@
 
 Aby dodac rozszerenie do przegladarki musisz: 
 - pobrac pliki
+    
+    ![image](https://user-images.githubusercontent.com/48928433/144710863-adb41f8e-42ee-4c4d-9fc1-1609d1f0e3a5.png)
+
+  
 - rozpakowac je
 - prejsc do strony rozszerzen w twojej przegladarce, bazujacej na chromium
 - wlaczyc try developera (prawy gowny rog)
