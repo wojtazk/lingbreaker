@@ -1,0 +1,22 @@
+{
+    "name": "lingBreaker",
+    "version": "1.0.2",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": [
+                "https://lingos.pl/students/learning/*",
+                "http://lingos.pl/students/checkAnswer/*",
+                "https://lingos.pl/students/checkAnswer/*"
+            ],
+            "js": [
+                "shitbreaker.js"
+            ]
+        }
+    ],
+    "icons": {
+        "16": "lb_icon16.png",
+        "48": "lb_icon48.png",
+        "128": "lb_icon128.png"
+    }
+}
