@@ -6,9 +6,14 @@
 <h3>Rozszerzenie działa na przeglądarkach bazujących na chromium tj (chrome, opera, nowy edge, brave itd)</h3>
 
 Aby dodać rozszerenie do przeglądarki musisz: 
-- pobrać pliki jako zip
+- przejść do zakładki z wydaniami -> po prawej stronie
+
+![image](https://user-images.githubusercontent.com/48928433/144745511-714d8eb2-91f5-4989-b51a-8bf0821d15a3.png)
+
+- wybrać odpowiadającą wam wersje, albo zwyczajnie najnowszą 😎😁
+- pobrać spakowane pliki
     
-    ![image](https://user-images.githubusercontent.com/48928433/144710863-adb41f8e-42ee-4c4d-9fc1-1609d1f0e3a5.png)
+    ![image](https://user-images.githubusercontent.com/48928433/144745539-b436af72-4e61-42d6-80b5-abc7aa4563d6.png)
 
 - rozpakować je
 - prejsć do strony rozszerzeń w twojej przeglądarce
