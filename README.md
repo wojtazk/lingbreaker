@@ -27,3 +27,10 @@ Aby dodać rozszerenie do przeglądarki musisz:
     
 - cieszyć się darmowymi ocenkami
 - wysławiać autorów rozszerzenia od proroków oraz traktować ich jak Bogów
+
+<br><br>
+
+    lingBreaker Copyright (C) 2021 Wojciech Kowal, Szymon Olszewski
+    This extension comes with ABSOLUTELY NO WARRANTY.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions.
