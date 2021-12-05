@@ -5,7 +5,12 @@
 
 <h3>Rozszerzenie działa na przeglądarkach bazujących na chromium tj (chrome, opera, nowy edge, brave itd)</h3>
 
-Aby dodać rozszerenie do przeglądarki musisz: 
+Aby dodać rozszerenie do przeglądarki musisz:
+
+```diff
+- jeśli masz zainstalowaną którąś z poprzednich wersji rozszerzenia to usuń ją z przeglądarki
+
+```
 - przejść do zakładki z wydaniami -> po prawej stronie
 
 ![image](https://user-images.githubusercontent.com/48928433/144745511-714d8eb2-91f5-4989-b51a-8bf0821d15a3.png)
