@@ -16,6 +16,9 @@ Aby dodać rozszerenie do przeglądarki musisz:
 ![image](https://user-images.githubusercontent.com/48928433/144745511-714d8eb2-91f5-4989-b51a-8bf0821d15a3.png)
 
 - wybrać odpowiadającą wam wersje, albo zwyczajnie najnowszą 😎😁
+    ```diff
+    - niestety, aktualnie wersje poniżej 2.0 nie działają!
+    ```
 - pobrać spakowane pliki
     
     ![image](https://user-images.githubusercontent.com/48928433/144745539-b436af72-4e61-42d6-80b5-abc7aa4563d6.png)
