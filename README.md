@@ -47,7 +47,7 @@ Aby dodać rozszerenie do przeglądarki musisz:
 <h3>Dodaj skrót na pulpit:</h3>
 
 
-- prawy gowny rog -> menu
+- prawy górny róg -> menu
 - more tools -> create shortcut
 
     ![image](https://user-images.githubusercontent.com/48928433/146655180-3cb09c60-1945-4675-af12-1747334131a4.png)
