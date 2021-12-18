@@ -54,8 +54,11 @@ Aby dodać rozszerenie do przeglądarki musisz:
     ![image](https://user-images.githubusercontent.com/48928433/146655180-3cb09c60-1945-4675-af12-1747334131a4.png)
     ![image](https://user-images.githubusercontent.com/48928433/146655364-830d8dcb-9598-4d28-916d-686cd5d9b60d.png)
 
+<br>
+<br>
 
-<h3>Uruchom skrót przy starcie systemu</h3>
+
+<h3>Uruchom skrót przy starcie systemu:</h3>
 
 
 - Krok pierwszy ➡️ masz 2 opcje do wyboru ⬇️
