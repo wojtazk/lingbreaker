@@ -40,8 +40,20 @@ Aby dodać rozszerenie do przeglądarki musisz:
     
 - cieszyć się darmowymi ocenkami
 - wysławiać autorów rozszerzenia od proroków oraz traktować ich jak Bogów
-
 <br><br>
+
+
+# Bonus
+<h3>Dodaj skrót na pulpit:</h3>
+
+
+- prawy gowny rog -> menu
+- more tools -> create shortcut
+
+    ![image](https://user-images.githubusercontent.com/48928433/146655180-3cb09c60-1945-4675-af12-1747334131a4.png)
+    ![image](https://user-images.githubusercontent.com/48928433/146655364-830d8dcb-9598-4d28-916d-686cd5d9b60d.png)
+<br><br>
+#
 
     lingBreaker Copyright (C) 2021 Wojciech Kowal, Szymon Olszewski
     This extension comes with ABSOLUTELY NO WARRANTY.
