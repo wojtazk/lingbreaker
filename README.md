@@ -47,8 +47,8 @@ Aby dodać rozszerenie do przeglądarki musisz:
 - następnie kliknąć przycisk `Start` albo (na klawiaturze) strzełkę w prawo `➡️`
 - (rozszerzenie można zastopować w analogiczny sposób - przycisk `Stop`, strzałka w lewo `⬅️`)
 
-- cieszyć się darmowymi ocenkami
-- wysławiać autorów rozszerzenia od proroków oraz traktować jak Bogów, w innym wypadku rozszerzenie przestanie działać
+- pozostaje tylko cieszyć się darmowymi ocenkami
+- oraz wysławiać autorów rozszerzenia od proroków i traktować jak Bogów, w innym wypadku rozszerzenie przestanie działać
 <br>
 <br>
 
