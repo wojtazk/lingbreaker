@@ -37,9 +37,18 @@ Aby dodać rozszerenie do przeglądarki musisz:
 - załadować folder z rozpakowanym rozszerzeniem
 
   ![image](https://user-images.githubusercontent.com/48928433/144710609-011df2f4-8346-4c3c-8ba5-e6e7f96ab0b2.png)
+  
+  
+- aby rozszerzenie zaczęło działać należy, będąc na stronie lingosa, kliknąć w jego ikonke
+- powinien pojawić się mniej więcej taki pop-up ⬇️
     
+    ![image](https://user-images.githubusercontent.com/48928433/149577221-600fb8c3-0962-47c2-b031-31e5cfcaf1ea.png)
+    
+- następnie kliknąć przycisk `Start` albo (na klawiaturze) strzełkę w prawo `➡️`
+- (rozszerzenie można zastopować w analogiczny sposób - przycisk `Stop`, strzałka w lewo `⬅️`)
+
 - cieszyć się darmowymi ocenkami
-- wysławiać autorów rozszerzenia od proroków oraz traktować ich jak Bogów
+- wysławiać autorów rozszerzenia od proroków oraz traktować jak Bogów, w innym wypadku rozszerzenie przestanie działać
 <br>
 <br>
 
