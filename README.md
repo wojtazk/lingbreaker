@@ -17,7 +17,7 @@ Aby dodać rozszerenie do przeglądarki musisz:
 
 - wybrać odpowiadającą wam wersje, albo zwyczajnie najnowszą 😎😁
     ```diff
-    - niestety, aktualnie wersje poniżej 2.0 nie działają!
+    - niestety, aktualnie wersje poniżej 3.0 nie działają!
     ```
 - pobrać spakowane pliki
     
