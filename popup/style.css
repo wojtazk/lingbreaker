@@ -1,0 +1,97 @@
+body {
+    display: flex;
+    flex-flow: column wrap;
+
+    justify-content: center;
+    align-items: center;
+
+    align-content: space-around;
+    margin: 0;
+    padding: 0;
+
+    color: white;
+    background-color: #424653;
+
+    height: 300px;
+    width: 250px;
+}
+
+footer {
+    margin-top: 6%;
+}
+footer a {
+    color: rgb(118, 199, 226);
+    font-size: 120%;
+    text-decoration: none;
+    display: block;
+    padding: 2px;
+}
+
+footer a:hover {
+    transition: 0.15s ease-in-out;
+    color: lightblue;
+    filter: brightness(1.05);
+    text-decoration: underline;
+}
+
+/* przyciski + animacja */
+button {
+    z-index: 9999;
+    outline: none;
+    height: 25%;
+    width: 80%;
+    border-radius: 10px;
+    border: 2px solid black;
+    color: whitesmoke;
+
+    position: relative;
+
+    text-align: center;
+
+    font-size: 200%;
+    font-weight: 600;
+    text-shadow: 2px 2px 1px black;
+    box-shadow: 0 6px 2px rgb(48, 48, 48);
+
+    cursor: pointer;
+    transition: 0.15s ease-in-out;
+}
+button:active {
+    box-shadow: 0 1px 1px rgb(36, 36, 36);
+}
+
+/* przycisk start */
+#start {
+    background-color: #2ecc71;
+    filter: brightness(0.85);
+    margin-bottom: 2%;
+}
+#start:hover {
+    transform: scale(1.05);
+    filter: brightness(0.9);
+}
+#start:active {
+    transition: 0.1s ease-in-out;
+    filter: brightness(0.5);
+    transform: translateY(3px);
+}
+
+/* przycisk stop */
+#stop {
+    background-color: #e74c3c;
+    filter: brightness(0.85);
+    margin-top: 2%;
+    transition: 0.1s ease-in-out;
+    margin-bottom: 1em;
+}
+#stop:hover {
+    margin-top: 0%;
+    transform: scale(1.02) rotateZ(2deg);
+    filter: brightness(0.9);
+    margin-top: 2%;
+}
+#stop:active {
+    transition: 0.1s ease-in-out;
+    filter: brightness(0.5);
+    transform: translateY(6px);
+}

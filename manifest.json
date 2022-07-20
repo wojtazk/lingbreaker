@@ -1,0 +1,35 @@
+{
+    "name": "lingBreaker",
+    "description": "Rozszerzenie auto-uzupełniające formularze 🚽🧻🪠",
+    "author": ["Wojciech Kowal", "Szymon Olszewski"],
+    "version": "3.0.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": ["*://lingos.pl/students/*"],
+            "js": ["/scripts/eventHandler.js"],
+            "run_at": "document_start"
+        },
+        {
+            "matches": [
+                "*://lingos.pl/students/learning/*",
+                "*://lingos.pl/students/checkAnswer/*"
+            ],
+            "js": ["/scripts/shitBreaker.js"],
+            "run_at": "document_end"
+        },
+        {
+            "matches": ["*://lingos.pl/students/start/*"],
+            "js": ["/scripts/lessonStarter.js"],
+            "run_at": "document_end"
+        }
+    ],
+    "action": {
+        "default_popup": "/popup/popup.html"
+    },
+    "icons": {
+        "16": "/icons/lb_icon16.png",
+        "48": "/icons/lb_icon48.png",
+        "128": "/icons/lb_icon128.png"
+    }
+}
